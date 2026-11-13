@@ -5,27 +5,26 @@
 
 <p align="center">
   <a href="https://github.com/xuanwuinoue">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Hi!+I'm+Xuanwu+%F0%9F%90%A2;Software+Engineering+Student;Building+HTML5+web+games;Learning+Japanese+%E6%97%A5%E6%9C%AC%E8%AA%9E;One+commit+a+day%2C+every+day." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Hi!+I'm+Xuanwu+%F0%9F%90%A2%F0%9F%90%8D;Software+Engineering+Student;Building+HTML5+web+games;Learning+%E6%97%A5%E6%9C%AC%E8%AA%9E+%C2%B7+English+%C2%B7+%E4%B8%AD%E6%96%87" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xuanwuinoue&label=Profile%20views&color=7c3aed&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/badge/Based%20in-Brazil%20🇧🇷-302b63?style=flat-square" alt="Brazil"/>
-  <img src="https://img.shields.io/badge/Goal-Japan%20🇯🇵-7c3aed?style=flat-square" alt="Japan"/>
+  <img src="https://img.shields.io/badge/Goal-China%20🇨🇳%20·%20Japan%20🇯🇵-7c3aed?style=flat-square" alt="China · Japan"/>
 </p>
 
 ---
 
-### 🐢 About me · Sobre mim
+### 🐢🐍 About me · Sobre mim
 
 ```js
 const xuanwu = {
   studying:  "Software Engineering",
-  building:  ["HTML5 web games", "a daily dev journal"],
-  learning:  ["JavaScript", "Japanese 日本語", "English"],
-  goal:      "work as a software engineer in Japan 🇯🇵",
-  playing:   ["Balatro", "Bloons TD 6", "League of Legends"],
+  building:  ["HTML5 web games", "a dev journal"],
+  learning:  ["Japanese 日本語", "English", "Mandarin 中文"],
+  goal:      "work as a software engineer in China 🇨🇳 & Japan 🇯🇵",
 };
 ```
 
@@ -34,8 +33,7 @@ const xuanwu = {
 <br>
 
 Oi! Eu sou o **Xuanwu**, estudante brasileiro de Engenharia de Software.
-Crio **jogos web em HTML5**, estou aprendendo **japonês** e meu objetivo é trabalhar como engenheiro de software no **Japão**.
-Faço um commit por dia: progresso pequeno, mas de verdade.
+Crio **jogos web em HTML5**, estou aprendendo **japonês**, **inglês** e **mandarim**, e meu objetivo é trabalhar como engenheiro de software na **China** e no **Japão**.
 
 </details>
 
@@ -44,7 +42,7 @@ Faço um commit por dia: progresso pequeno, mas de verdade.
 <br>
 
 はじめまして！ブラジルのソフトウェア工学の学生、**玄武 (Xuanwu)** です。
-ゲームを作るのが好きです。日本語を勉強しています。よろしくお願いします！
+ゲームを作るのが好きです。日本語と中国語を勉強しています。よろしくお願いします！
 
 </details>
 
